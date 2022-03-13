@@ -1,0 +1,7 @@
+[core]
+    remote = ri2fl_dvc_storage
+['remote "ri2fl_dvc_storage"']
+    url = ssh://tomo6@143.248.249.221:60000/data1/jkcha/RI2FL_dvc_storage
+    user = tomo6
+    port = 60000
+    password = @tcai6429!
